@@ -91,4 +91,6 @@
 + https://docs.python.org/3/tutorial/ - Официальный туториал об операциях на английском
 + https://docs.python.org/3/library/ - то же, но уже о типах структур
 + https://www.w3schools.com/python/ - англоязычный туториал от w3schools (выражения уже попроще)
-+ https://schoolsw3.com/python/ - зеркало на русском. 
++ https://schoolsw3.com/python/ - зеркало на русском.
+
+Некоторые задачи взяты/основаны на задачах с уроков Дениса Павновича Кириенко. Лавры ему
